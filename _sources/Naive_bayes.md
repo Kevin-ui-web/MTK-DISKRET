@@ -14,8 +14,7 @@ Keuntungan algoritma naive bayes adalah tingkat nilai error yang didapat lebih r
 
 ### Bagaimana kemungkinan/probabilitas usia paruh baya tekanan darah sangat tinggi  kemungkinan penyakit Hipertensi (H) atau Tidak (T):
 
-![Cuplikan layar 2024-12-09 011014](https://hackmd.io/_uploads/HymmbwX4Jl.png)
-
+![](https://cdn.mathpix.com/snip/images/VTOayb_UXKIC_AHGBWpTgXF5iQqTDBHkJO6i8QRd6vo.original.fullsize.png)
 
 
 ### Tipe Algoritma Naive Bayes :
@@ -48,9 +47,7 @@ Likelihood (Mathematical) adalah probabilitas hipotetis bahwa suatu peristiwa ya
 
 contoh dalam rumus:
 
-
-
-![Cuplikan layar 2024-12-09 003442](https://hackmd.io/_uploads/ryPnpIX4yg.png)
+![](https://cdn.mathpix.com/snip/images/cBD-Z0jnwxj9sRFulrc-Uo9qgNeifJq9PwlpCNEblUk.original.fullsize.png)
 
 
 
